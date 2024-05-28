@@ -1,8 +1,6 @@
 # Student Grade Tracker
 
-![GitHub repo size](https://img.shields.io/github/repo-size/adithya-naik/Student-Grade-Tracker)
-![GitHub stars](https://img.shields.io/github/stars/adithya-naik/Student-Grade-Tracker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/adithya-naik/Student-Grade-Tracker?style=social)
+
 
 ## Overview
 
